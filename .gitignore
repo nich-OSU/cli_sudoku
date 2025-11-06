@@ -1,0 +1,5 @@
+# Ignore virtual environment and caches
+ve_sudoku/
+__pycache__/
+*.pyc
+.env

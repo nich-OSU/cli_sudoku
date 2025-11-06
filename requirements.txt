@@ -1,0 +1,4 @@
+# Minimal dependencies for Sudoku CLI Solver
+# Requires Python 3.10+
+colorama==0.4.6
+pyfiglet==1.0.3
